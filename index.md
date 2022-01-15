@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Coding World
 
 You can use the [editor on GitHub](https://github.com/Prakhya27/coursera-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
